@@ -1,0 +1,22 @@
+{
+  "name": "angular-up-and-running",
+  "authors": [
+    "cyper <345343747@qq.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.4.9"
+  }
+}
